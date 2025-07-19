@@ -1,0 +1,30 @@
+{
+  "destinations": [
+    {
+      "name": "Maldives",
+      "mood": "relaxing",
+      "flights": [
+        {"airline": "SkyAir", "price": "$450", "duration": "6h"},
+        {"airline": "CloudJet", "price": "$500", "duration": "5h 45m"}
+      ],
+      "hotels": [
+        {"name": "Hotel Azure", "price_per_night": "$120"},
+        {"name": "Sunrise Suites", "price_per_night": "$95"}
+      ],
+      "activities": ["Snorkeling", "Seafood dinners", "Sunset cruise"]
+    },
+    {
+      "name": "Switzerland",
+      "mood": "adventure",
+      "flights": [
+        {"airline": "AlpineAir", "price": "$650", "duration": "8h"},
+        {"airline": "SnowJet", "price": "$700", "duration": "7h 30m"}
+      ],
+      "hotels": [
+        {"name": "Mountain View Inn", "price_per_night": "$150"},
+        {"name": "Alpine Lodge", "price_per_night": "$130"}
+      ],
+      "activities": ["Skiing", "Mountain hiking", "Swiss chocolate tour"]
+    }
+  ]
+}
